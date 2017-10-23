@@ -1,6 +1,7 @@
 #include "functions.h"
 
 #include <iostream>
+#include <stdio.h>
 
 
 size_t getSizeOfTab(double* tab)

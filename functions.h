@@ -5,6 +5,7 @@ size_t getSizeOfTab(double*);
 void display_tab(double*);
 void display_tab_proc(double*);
 
+
 //Przyrosty absolutne
 void get_P_At_0(double*, double*);
 void get_P_At_Atminus1(double*, double*);
